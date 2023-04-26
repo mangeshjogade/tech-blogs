@@ -48,7 +48,7 @@ After your pull request is reviewed and approved, the changes are merged into th
 
 Periodically, we release new stable versions of our projects by tagging specific commits in the main branch. These tagged releases can then be deployed to production environments.
 
-diagram
+![alt text](trunk-based-development.JPG)
 
 ## Implementation 
 
